@@ -15,7 +15,7 @@ def fibonacci(n):
     return b
 
 def main():
-    n = 10000000
+    n = 2000000
     
     start_time = time.time()
     result = fibonacci(n)
